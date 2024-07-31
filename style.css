@@ -172,7 +172,7 @@ header{
 
 .header-right img{
     /* flex-direction: column; */
-    width: 500px;
+    width: 100%;
 }
 
 /* Companies Section */
